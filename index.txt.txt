@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Work repository</title>
+</head>
+<body>
+    <div>
+	Department Information and Intellectual Property
+	Faculty "Computer and Information technology" State Tax University
+    </div>
+</body>
+</html>
