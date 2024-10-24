@@ -8,6 +8,7 @@
     <div>
 	Department Information and Intellectual Property
 	Faculty "Computer and Information technology" State Tax University
+	<p> This is new line </p>
     </div>
 </body>
 </html>
